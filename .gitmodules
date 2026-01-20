@@ -1,0 +1,3 @@
+[submodule "tugas"]
+	path = tugas
+	url = git@github.com:mustapiah/belajar-git-remote.git
